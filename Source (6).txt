@@ -405,7 +405,7 @@ end
 local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/Toilaai4141/Cac/main/source.lua%20(5).txt"))()
 local Window = redzlib:MakeWindow({ Title = "Ar Drak Hub: V1 :Meme Sea", SubTitle = "by _libbi", SaveFolder = "redzHub-MemeSea.json" })
 Window:AddMinimizeButton({
-  Button = { Image = "rbxassetid://15298567397", BackgroundTransparency = 0 },
+  Button = { Image = "rbxassetid://18685184623", BackgroundTransparency = 0 },
   Corner = { CornerRadius = UDim.new(0, 6) }
 })
 
@@ -433,8 +433,8 @@ local _Discord = Tabs.Discord do
   _Discord:AddDiscordInvite({
     Name = "Ar Drak Hub | Community",
     Description = "Coppy community to receive information about the next update",
-    Logo = "rbxassetid://17382040552",
-    Invite = "https://discord.gg/7aR7kNVt4g"
+    Logo = "rbxassetid://18685184623",
+    Invite = "https://www.youtube.com/@hungty4141"
   })
 end
 
